@@ -1,5 +1,5 @@
 # Enigma
-A C++ version of the Enigma Machine Alan Turing created Christopher.
+A C++ version of the Enigma Machine Alan Turing created called Christopher.
 
 
 
